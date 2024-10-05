@@ -1,0 +1,38 @@
+.outbox{
+    border: solid 1px;
+    height: 750px;
+    background-image: url(sai3.jpg);
+    background-repeat: no-repeat;
+    background-size:  1550px 750px;
+}
+#nav{
+    border: solid 1px white;
+    height: 50px;
+    line-height: 50px;
+}
+#in{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    padding-right: 25px;
+    font-weight: bold;
+}
+.out{
+    border: solid 1px white;
+    height: 450px;
+}
+#Quallity{
+    color: rgb(202, 9, 9);
+    font-size: 55px;
+    text-align: center;
+    padding-top: 100px;
+    text-shadow: 4px 4px 5px white;
+}
+#menu{
+    border: solid 1px;
+    height: 350px;
+
+}
+#image{
+    border-radius: 50%;
+}
